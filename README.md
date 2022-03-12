@@ -1,5 +1,5 @@
 # coursera-web-dev-bootstrap
-Coursera web development course repository Module 2
+Coursera web development course repository Module 3
 
 you will be creating a single, responsive page.
 
