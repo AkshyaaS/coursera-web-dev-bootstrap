@@ -1,6 +1,8 @@
 # coursera-web-dev-bootstrap
 Coursera web development course repository Module 3
 
+Link to the webpage: https://akshyaas.github.io/coursera-web-dev-bootstrap/
+
 you will be creating a single, responsive page.
 
 Your page must include a CSS file. No inline styles allowed. Your CSS file should be placed into a css folder under the solution container folder, e.g., module3-solution/css.
